@@ -9,4 +9,6 @@ v2 can count objects and measure some parameters like length, diamater, area and
 
 v3 is planned to be able to analyze seed colors. 
 
+There is an example image in the repository to test the plugin. 
+
 Don't hestitate to contact me if you have any questions. 
